@@ -18,6 +18,8 @@
     "@angular/platform-browser": "^15.0.0",
     "@angular/platform-browser-dynamic": "^15.0.0",
     "@angular/router": "^15.0.0",
+    "echarts": "^5.4.2",
+    "express": "^4.18.2",
     "mixpanel-browser": "^2.46.0",
     "net-browserify": "^0.1.4",
     "ngx-mixpanel": "^0.9.3",
